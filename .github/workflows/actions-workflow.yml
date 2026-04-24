@@ -1,4 +1,4 @@
-name: Full CI/CD Pipeline Demo
+name: CI/CD Pipeline Demo
 
 on:
   push:
